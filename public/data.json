@@ -1,0 +1,546 @@
+{
+  "data":  [
+   {
+       "makeId": 18,
+       "makeName": "Audi",
+       "makeMaskingName": "audi",
+       "modelId": 2965,
+       "modelName": "Q8",
+       "modelMaskingName": "q8",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/184519/q8-facelift-exterior-right-front-three-quarter-4.jpeg?isig=0",
+       "priceOverview": {
+           "price": "11700000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 1.17 Crore"
+       },
+       "carRating": 0,
+       "launchedOn": "08/22/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 9,
+       "makeName": "Mahindra",
+       "makeMaskingName": "mahindra",
+       "modelId": 1901,
+       "modelName": "Thar Roxx",
+       "modelMaskingName": "thar-roxx",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/124839/thar-roxx-exterior-right-front-three-quarter-12.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1299000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 12.99 Lakh"
+       },
+       "carRating": 4.45,
+       "launchedOn": "08/14/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 74,
+       "makeName": "Citroen",
+       "makeMaskingName": "citroen",
+       "modelId": 2657,
+       "modelName": "Basalt",
+       "modelMaskingName": "basalt",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/163873/basalt-exterior-right-front-three-quarter-3.jpeg?isig=0",
+       "priceOverview": {
+           "price": "799000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 7.99 Lakh"
+       },
+       "carRating": 4.71,
+       "launchedOn": "08/09/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 16,
+       "makeName": "Tata",
+       "makeMaskingName": "tata",
+       "modelId": 1837,
+       "modelName": "Curvv EV",
+       "modelMaskingName": "curvv-ev",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/115617/curvv-ev-exterior-right-front-three-quarter-5.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1749000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 17.49 Lakh"
+       },
+       "carRating": 4.14,
+       "launchedOn": "08/07/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 9,
+       "makeName": "Mahindra",
+       "makeMaskingName": "mahindra",
+       "modelId": 1290,
+       "modelName": "XUV700",
+       "modelMaskingName": "xuv700",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1399001",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 13.99 Lakh"
+       },
+       "carRating": 4.61,
+       "launchedOn": "09/30/2021 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 9,
+       "makeName": "Mahindra",
+       "makeMaskingName": "mahindra",
+       "modelId": 1260,
+       "modelName": "Thar",
+       "modelMaskingName": "thar",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1135000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 11.35 Lakh"
+       },
+       "carRating": 4.69,
+       "launchedOn": "10/02/2020 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 8,
+       "makeName": "Hyundai",
+       "makeMaskingName": "hyundai",
+       "modelId": 1729,
+       "modelName": "Creta",
+       "modelMaskingName": "creta",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0",
+       "priceOverview": {
+           "price": "1099900",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 11.00 Lakh"
+       },
+       "carRating": 4.64,
+       "launchedOn": "01/16/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 9,
+       "makeName": "Mahindra",
+       "makeMaskingName": "mahindra",
+       "modelId": 1985,
+       "modelName": "Scorpio",
+       "modelMaskingName": "scorpio",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1361600",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 13.62 Lakh"
+       },
+       "carRating": 4.76,
+       "launchedOn": "08/19/2022 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 9,
+       "makeName": "Mahindra",
+       "makeMaskingName": "mahindra",
+       "modelId": 1264,
+       "modelName": "Scorpio N",
+       "modelMaskingName": "scorpio-n",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1385200",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 13.85 Lakh"
+       },
+       "carRating": 4.65,
+       "launchedOn": "06/27/2022 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 70,
+       "makeName": "Kia",
+       "makeMaskingName": "kia",
+       "modelId": 2807,
+       "modelName": "Seltos",
+       "modelMaskingName": "seltos",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/174323/seltos-exterior-right-front-three-quarter.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1089900",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 10.90 Lakh"
+       },
+       "carRating": 4.62,
+       "launchedOn": "04/02/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 10,
+       "makeName": "Maruti Suzuki",
+       "makeMaskingName": "maruti-suzuki",
+       "modelId": 1875,
+       "modelName": "Grand Vitara",
+       "modelMaskingName": "grand-vitara",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1087386",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 10.87 Lakh"
+       },
+       "carRating": 4.45,
+       "launchedOn": "09/26/2022 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 16,
+       "makeName": "Tata",
+       "makeMaskingName": "tata",
+       "modelId": 2241,
+       "modelName": "Harrier",
+       "modelMaskingName": "harrier",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1499000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 14.99 Lakh"
+       },
+       "carRating": 4.68,
+       "launchedOn": "10/17/2023 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 17,
+       "makeName": "Toyota",
+       "makeMaskingName": "toyota",
+       "modelId": 1887,
+       "modelName": "Urban Cruiser Hyryder",
+       "modelMaskingName": "urban-cruiser-hyryder",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1114000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 11.14 Lakh"
+       },
+       "carRating": 4.4,
+       "launchedOn": "09/09/2022 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 16,
+       "makeName": "Tata",
+       "makeMaskingName": "tata",
+       "modelId": 2219,
+       "modelName": "Safari",
+       "modelMaskingName": "safari",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1549000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 15.49 Lakh"
+       },
+       "carRating": 4.79,
+       "launchedOn": "10/17/2023 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 15,
+       "makeName": "Skoda",
+       "makeMaskingName": "skoda",
+       "modelId": 2859,
+       "modelName": "Kushaq",
+       "modelMaskingName": "kushaq",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/175993/kushaq-exterior-right-front-three-quarter-2.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1089000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 10.89 Lakh"
+       },
+       "carRating": 4.4,
+       "launchedOn": "04/30/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 43,
+       "makeName": "Jeep",
+       "makeMaskingName": "jeep",
+       "modelId": 2829,
+       "modelName": "Wrangler",
+       "modelMaskingName": "wrangler",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/174975/wrangler-facelift-exterior-right-front-three-quarter.jpeg?isig=0",
+       "priceOverview": {
+           "price": "6765000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 67.65 Lakh"
+       },
+       "carRating": 4.88,
+       "launchedOn": "04/25/2024 00:00:00",
+       "showJustLaunchedBadge": true
+   },
+   {
+       "makeId": 7,
+       "makeName": "Honda",
+       "makeMaskingName": "honda",
+       "modelId": 2349,
+       "modelName": "Elevate",
+       "modelMaskingName": "elevate",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1173053",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 11.73 Lakh"
+       },
+       "carRating": 4.55,
+       "launchedOn": "09/04/2023 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 23,
+       "makeName": "Land Rover",
+       "makeMaskingName": "land-rover",
+       "modelId": 2545,
+       "modelName": "Range Rover Velar",
+       "modelMaskingName": "range-rover-velar",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/153319/range-rover-velar-exterior-right-front-three-quarter-4.jpeg?isig=0",
+       "priceOverview": {
+           "price": "8790000",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 87.90 Lakh"
+       },
+       "carRating": 4.84,
+       "launchedOn": "07/24/2023 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 10,
+       "makeName": "Maruti Suzuki",
+       "makeMaskingName": "maruti-suzuki",
+       "modelId": 1323,
+       "modelName": "Jimny",
+       "modelMaskingName": "jimny",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/45299/jimny-exterior-right-front-three-quarter-27.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1274016",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 12.74 Lakh"
+       },
+       "carRating": 3.33,
+       "launchedOn": "06/07/2023 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+   {
+       "makeId": 72,
+       "makeName": "MG",
+       "makeMaskingName": "mg",
+       "modelId": 2031,
+       "modelName": "Hector",
+       "modelMaskingName": "hector",
+       "hostUrl": "https://imgd.aeplcdn.com/",
+       "originalImagePath": "/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0",
+       "priceOverview": {
+           "price": "1398800",
+           "label": "Avg. Ex-Showroom price",
+           "formattedPrice": "Rs. 13.99 Lakh"
+       },
+       "carRating": 4.55,
+       "launchedOn": "01/11/2023 00:00:00",
+       "showJustLaunchedBadge": false
+   },
+    {
+        "makeId": 72,
+        "makeName": "MG",
+        "makeMaskingName": "mg",
+        "modelId": 2031,
+        "modelName": "Hector",
+        "modelMaskingName": "hector",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0",
+        "priceOverview": {
+            "price": "1398800",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 13.99 Lakh"
+        },
+        "carRating": 4.55,
+        "launchedOn": "01/11/2023 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 17,
+        "makeName": "Toyota",
+        "makeMaskingName": "toyota",
+        "modelId": 1309,
+        "modelName": "Fortuner",
+        "modelMaskingName": "fortuner",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0",
+        "priceOverview": {
+            "price": "3342796",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 33.43 Lakh"
+        },
+        "carRating": 4.53,
+        "launchedOn": "01/06/2021 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 20,
+        "makeName": "Volkswagen",
+        "makeMaskingName": "volkswagen",
+        "modelId": 2433,
+        "modelName": "Taigun",
+        "modelMaskingName": "taigun",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0",
+        "priceOverview": {
+            "price": "1169900",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 11.70 Lakh"
+        },
+        "carRating": 4.54,
+        "launchedOn": "03/23/2023 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 11,
+        "makeName": "Mercedes-Benz",
+        "makeMaskingName": "mercedes-benz",
+        "modelId": 2525,
+        "modelName": "G-Class",
+        "modelMaskingName": "g-class",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/150621/g-class-exterior-right-front-three-quarter-3.jpeg?isig=0",
+        "priceOverview": {
+            "price": "25500000",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 2.55 Crore"
+        },
+        "carRating": 4.79,
+        "launchedOn": "06/08/2023 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 74,
+        "makeName": "Citroen",
+        "makeMaskingName": "citroen",
+        "modelId": 2341,
+        "modelName": "C3 Aircross",
+        "modelMaskingName": "c3-aircross",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/142375/c3-aircross-exterior-right-front-three-quarter-34.jpeg?isig=0",
+        "priceOverview": {
+            "price": "1161300",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 11.61 Lakh"
+        },
+        "carRating": 4.53,
+        "launchedOn": "09/16/2023 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 43,
+        "makeName": "Jeep",
+        "makeMaskingName": "jeep",
+        "modelId": 1343,
+        "modelName": "Compass",
+        "modelMaskingName": "compass",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/47051/compass-exterior-right-front-three-quarter-74.jpeg?isig=0",
+        "priceOverview": {
+            "price": "1899000",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 18.99 Lakh"
+        },
+        "carRating": 4.12,
+        "launchedOn": "01/27/2021 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 8,
+        "makeName": "Hyundai",
+        "makeMaskingName": "hyundai",
+        "modelId": 2351,
+        "modelName": "Alcazar",
+        "modelMaskingName": "alcazar",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0",
+        "priceOverview": {
+            "price": "1677500",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 16.77 Lakh"
+        },
+        "carRating": 4.57,
+        "launchedOn": "02/02/2023 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 72,
+        "makeName": "MG",
+        "makeMaskingName": "mg",
+        "modelId": 2249,
+        "modelName": "Hector Plus",
+        "modelMaskingName": "hector-plus",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-13.jpeg?isig=0",
+        "priceOverview": {
+            "price": "1729800",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 17.30 Lakh"
+        },
+        "carRating": 4.46,
+        "launchedOn": "01/11/2023 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 72,
+        "makeName": "MG",
+        "makeMaskingName": "mg",
+        "modelId": 1385,
+        "modelName": "Astor",
+        "modelMaskingName": "astor",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0",
+        "priceOverview": {
+            "price": "998000",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 9.98 Lakh"
+        },
+        "carRating": 4.19,
+        "launchedOn": "10/11/2021 00:00:00",
+        "showJustLaunchedBadge": false
+    },
+    {
+        "makeId": 17,
+        "makeName": "Toyota",
+        "makeMaskingName": "toyota",
+        "modelId": 2271,
+        "modelName": "Land Cruiser",
+        "modelMaskingName": "land-cruiser",
+        "hostUrl": "https://imgd.aeplcdn.com/",
+        "originalImagePath": "/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0",
+        "priceOverview": {
+            "price": "21000000",
+            "label": "Avg. Ex-Showroom price",
+            "formattedPrice": "Rs. 2.10 Crore"
+        },
+        "carRating": 4.85,
+        "launchedOn": "12/22/2022 00:00:00",
+        "showJustLaunchedBadge": false
+    }
+]
+}
+
+
