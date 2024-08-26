@@ -35,6 +35,7 @@ const CardUI = (props: CardProps) => {
       <div className="card">
         <div className="card-container">
           <div className="card-top-content">
+           {isCarBeenCompared && <div className='card-selected valign-wrapper fs12'>C</div> }
             <div className="card-container-image">
               <img src={imageUrl} alt={title} />
             </div>
