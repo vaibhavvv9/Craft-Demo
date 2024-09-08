@@ -12,7 +12,7 @@ export const fetchCarDataByMake = (makeName: string) => {
             .then(data => {
                 // Filtering the data based on makeName
             setTimeout(() => {
-                const result = data.data.find(car => car.makeName === makeName || car.makeMaskingName === makeName || car.modelName === makeName);
+                const result = data.data.find(car => car.makeName === makeName || car.makeMaskingName === makeName || car.modelName === makeName || car.modelMaskingName === makeName);
                 if (result) {
                     resolve(result); // Resolve with the found car
                 } else {

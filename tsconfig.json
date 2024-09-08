@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "allowJs": true, // enable JavaScript files
+        "checkJs": true, // enable type checking for JavaScript files
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+        // other options
+        "outDir": "dist" // specify an output directory for the compiled files
+    },
+    "include": [
+        "src",
+        "custom.d.ts", // or "types/**/*.d.ts" if you put it in a types directory
+        "**/*.js", // include JavaScript files
+        "**/*.tsx" // include TypeScript React files
+    ]
+}

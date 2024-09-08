@@ -2,11 +2,14 @@ import React from 'react';
 import { State } from '../../helpers/types';
 import { useSelector } from 'react-redux';
 import useCompare from '../../Controllers/useCompare.ts';
-import './details.css'
 import { Rating } from 'react-simple-star-rating';
 import { formatDate } from '../../helpers/index.ts';
-import Loader from '../Loader/index.tsx';
-import NotFoundError from '../Error/notfound.tsx';
+import Loader from '../../Common/Loader/index.tsx';
+import NotFoundError from '../../Common/Error/notfound.tsx';
+import ShimmerImage from '../../Common/ShimmerImage/index.tsx';
+
+import './details.css';
+import { Toastify } from '../../Common/Toast/index.ts';
 
 
 const Details = ({handleScrollToCompare} : {handleScrollToCompare: () => void}) => {
@@ -28,7 +31,6 @@ const Details = ({handleScrollToCompare} : {handleScrollToCompare: () => void}) 
         return null;
     }
 
-
         const {
           makeName,
           hostUrl,
@@ -47,7 +49,7 @@ const Details = ({handleScrollToCompare} : {handleScrollToCompare: () => void}) 
         return (
           <section className="Detail">
             <div className="Detail__thumbnail">
-              <img src={imageUrl} alt="" />
+              <ShimmerImage src={imageUrl} alt="Description of image" />
             </div>
     
             <div className="Detail__info__container">
@@ -82,8 +84,8 @@ const Details = ({handleScrollToCompare} : {handleScrollToCompare: () => void}) 
     
               <div className="valign-wrapper">
                 <button
-                  className="cart-btn valign-wrapper vcenter cur-no"
-                  onClick={() => {}}
+                  className="cart-btn valign-wrapper vcenter cur-po"
+                  onClick={() => { Toastify.info({ title: 'We will soon bring out this feature' });; console.log('hey') } }
                 >
                   Add to Cart
                 </button>

@@ -2,6 +2,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { State } from "../helpers/types.ts";
 import { getCarById } from "../stores/selectors.ts";
 import { useCallback } from "react";
+import { Toastify } from "../Common/Toast/index.ts";
 
     const useCompare = (props: { id: number, handleScrollToCompare: () => void} ) => {
 
@@ -13,15 +14,14 @@ import { useCallback } from "react";
 
     const handleCompare = useCallback(() => {
 
-        if(Object.keys(comparedCar).length === 3 && !isCarBeenCompared) {
-            alert('You can only compare 3 cars at a time');
+        const currentComparedCars = Object.keys(comparedCar).length
+
+        if(currentComparedCars === 3 && !isCarBeenCompared) {
+            Toastify.error({ title: 'You can only compare 3 cars at a time' });
             return;
         }
 
-        if(Object.keys(comparedCar).length > 0) {
-            handleScrollToCompare();
-
-        }
+       
 
         if(!isCarBeenCompared) {
         const payload = {
@@ -29,11 +29,23 @@ import { useCallback } from "react";
             value: car
         }
 
+        if(currentComparedCars > 0) {
+            handleScrollToCompare();
+
+        }
+
         dispatch({
             type: 'ADD_TO_COMPARE',
             payload
         })
 
+
+    if(currentComparedCars === 0) {
+        Toastify.warn({ title: 'Add One More Car to see the comparsion' });
+
+    } else {
+        Toastify.success({ title: 'Car successfully added to the compared list' });
+    }
 
     } else {
         dispatch({

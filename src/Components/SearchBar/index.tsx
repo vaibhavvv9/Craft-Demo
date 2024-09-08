@@ -1,5 +1,3 @@
- // @ts-ignore
-
 import React, { useCallback } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchCarDetails, handleSearch } from '../../stores/actionCreators.ts';
