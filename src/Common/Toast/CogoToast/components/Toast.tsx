@@ -64,12 +64,14 @@ const Toast = (props:Props) => {
         clearTimeout(hideTimeout);
       }
     };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     if (!props.show) {
       handleHide();
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ props.show ]);
 
   const clickProps = {

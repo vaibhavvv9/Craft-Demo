@@ -1,11 +1,9 @@
-import React, { useCallback } from 'react';
+import React, { Suspense, useCallback } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchCarDetails, handleSearch } from '../../stores/actionCreators.ts';
 
 import searchIcon from '../../assets/searchIcon.svg';
-import logo from '../../assets/inuit_logo.png'
 
-import './searchBar.css';
 
 
 const SearchBar = () => {
@@ -24,7 +22,9 @@ const SearchBar = () => {
     return (
         <div className='vspace-between'>
             <div style={{ marginLeft: '16px'}}>
-                <img height="48" src= {logo} alt='logo'/>
+            <Suspense fallback={<div>logo</div>}>
+            <img height="48" src= {require('../../assets/inuit_logo.png')} alt='logo'/>
+            </Suspense>
             </div>
         <div style={{ position: 'relative' , width: '300px', right: '28px'}}>
             <input 
